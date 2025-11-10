@@ -23,7 +23,7 @@ Fuente: https://www.kaggle.com/datasets/shahzadi786/world-smartphone-market-2025
 * Soporta 5G -	Distribución de modelos con y sin soporte 5G, segmentado por marca.
 * Procesador utilizado - Distribución procesadores más utilizados en el mercado.
 
-<img width="994" height="559" alt="Marcas" src="https://github.com/user-attachments/assets/25d86001-b9e6-4067-af1c-f7f8607b45a3" />
+<img width="994" height="557" alt="Marcas" src="https://github.com/user-attachments/assets/a5d52f83-91c7-4706-828e-92140d90e9ad" />
 
 ### 2. Modelos
 
