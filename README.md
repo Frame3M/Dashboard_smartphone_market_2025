@@ -1,5 +1,8 @@
 # 📈 Análisis del Mercado de Celulares 2025
 
+![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 Este proyecto consiste en un dashboard interactivo de Business Intelligence (BI) que ofrece una visión integral de las tendencias y especificaciones que dominarán el mercado de smartphones durante el año 2025.
 
 El análisis está diseñado para proporcionar insights rápidos y profundos a profesionales de marketing, analistas de producto y entusiastas de la tecnología.
